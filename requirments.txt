@@ -1,0 +1,6 @@
+A working PC with OS : MAC/Windows/Linux or mobile with Android/IOS
+
+Using command line tools or terminal download npm, node.js, sql, html, css, with javascript package.
+
+Or Just go to hosted link to experience the application 
+https://kam-frontend.onrender.com/
