@@ -36,7 +36,7 @@ Designed to optimize workflow, allowing KAMs to focus on building strong client 
 
 System requirements:
 
-basic PC with windows/Mac/Linux works with IOS/Android.
+basic PC with windows/Mac/Linux OS or works with Mobile IOS/Android OS.
 
 Installation instructions : 
 
